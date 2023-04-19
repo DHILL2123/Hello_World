@@ -7,3 +7,4 @@
 # classification-exercises
 # Jupyter_Notebook_Report
 # Jupyter_Notebook_Report
+# time-series-exercises
