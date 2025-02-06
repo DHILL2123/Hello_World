@@ -1,6 +1,6 @@
 # **Beyond the Fairway: Predicting the Future of Driving Distance in Golf ⛳**  
 **Author:** Deadrien Hill  
-**Project:** D214 Task 3 – Time Series Modeling  
+**Project:** Predictive Modeling in Golf
 
 ## **📌 Project Overview**
 This project evaluates the **predictability of driving distance (Drive Avg)** in professional golf using **Holt’s Exponential Smoothing Model**. The objective was to determine whether **driving distance can be forecasted with at least 90% accuracy** and to assess its impact on **player performance, regulations, and competitive balance**.
