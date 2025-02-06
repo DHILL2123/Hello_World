@@ -87,13 +87,10 @@ This study confirms that **driving distance is highly predictable** using **Holt
 
 ### **📬 Contact**
 **Author:** Deadrien Hill  
-📧 [Your Email Here]  
-🔗 [Your LinkedIn Here]  
-🌐 [Your Website Here]  
+📧 [deadrienhill@yahoo.com]  
+🔗 [https://ww.linkedin.com/in/deadrien-hill]
+ 
 
 ---
 
-✅ **Instructions to Add to Your GitHub Repo:**  
-1. **Create a new file in your repo**  
-   ```bash
-   touch README.md
+
